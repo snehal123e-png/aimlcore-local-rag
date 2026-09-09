@@ -1,0 +1,12 @@
+.env
+*.db
+__pycache__/
+.pytest_cache/
+.venv/
+node_modules/
+data/uploads/*
+data/processed/*
+data/indexes/*
+!data/uploads/.gitkeep
+!data/processed/.gitkeep
+!data/indexes/.gitkeep

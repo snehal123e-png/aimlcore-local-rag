@@ -1,0 +1,4 @@
+id,question,expected_source,expected_page,expected_answer,type
+Q001,What is the annual leave entitlement?,Employee_Leave_Policy.pdf,2,Use the value stated in the policy,factual
+Q002,How early should leave be requested?,Employee_Leave_Policy.pdf,2,Three working days,paraphrased
+Q003,What is the international travel allowance?,NONE,,No information available,no_answer

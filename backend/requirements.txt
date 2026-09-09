@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+sqlalchemy
+pydantic
+pydantic-settings
+python-dotenv
+pymupdf
+python-docx
+pandas
+sentence-transformers
+faiss-cpu
+requests
+pytest
+httpx
